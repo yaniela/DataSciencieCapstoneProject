@@ -26,3 +26,15 @@ Data cleaning tasks applied to the dataset are:
 
 ![imagen](https://user-images.githubusercontent.com/58599063/119701151-09f2ba80-be22-11eb-870d-2e1851640bac.png)
 
+
+## Further reading
+
+Shiny Application link: https://yaniela.shinyapps.io/PredictiveWordShinyApp/
+
+Source code available on Github: https://github.com/yaniela/DataSciencieCapstoneProject
+
+Reference:
+
+Dobrinov, N.(2018). A Model to Predict the Next Word You Are Typing via Natural Language Processing in R
+
+available in: https://nikdobri.shinyapps.io/wordpred3grm/_w_7ca01872/word.prediction.html.
